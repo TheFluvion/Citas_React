@@ -1,4 +1,4 @@
-import Paciente from "./paciente"
+import Paciente from "./Paciente"
 
 export default function ListadoPacientes({ pacientes, setPaciente, handleDelete }) {
 
